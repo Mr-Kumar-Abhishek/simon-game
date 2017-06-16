@@ -23,3 +23,14 @@ html,body{
     border-width: 30px;
     border-radius: 50%;
 }
+
+.board-inner {
+    margin-left: auto;
+    height: 390px;
+    width: auto;
+    border-radius: 50%;
+    border: 0;
+    position: relative;
+    text-align: center;
+    background-color: #333;
+}
