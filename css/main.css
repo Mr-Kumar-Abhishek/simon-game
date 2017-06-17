@@ -25,14 +25,4 @@ html,body{
     overflow: hidden;
 }
 
-.board-inner {
-    margin-left: auto;
-    height: 390px;
-    width: auto;
-    border: 0;
-    position: relative;
-    text-align: center;
-    background-color: #333;
-}
-
 
