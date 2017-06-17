@@ -75,5 +75,21 @@ html,body{
 .blue {
 	background: #094a8f;
 }
-	
+
+.green:hover {
+	background: #25d473;
+}
+
+.red:hover {
+	background: #da2e38;
+}
+
+.yellow:hover {
+	background: #dec454;
+}
+
+.blue:hover {
+	background: #3677bd;
+}
+
 
