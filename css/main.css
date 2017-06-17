@@ -60,4 +60,20 @@ html,body{
   border-right-width: 2px;
 }
 
+.green {
+	background: #00a74a;
+}
+
+.red {
+	background:  #9f0f17;
+}
+
+.yellow {
+	background: #cca707;
+}
+
+.blue {
+	background: #094a8f;
+}
+	
 
