@@ -105,4 +105,11 @@ html,body{
     background: #d2d2d2;  
 }
 
+.switch-board p {
+    margin-top: 30px;
+    margin-left: 30px;
+    font-weight: bolder;
+    font-size: 45px;
+}
+
 
