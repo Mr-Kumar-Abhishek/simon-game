@@ -101,7 +101,8 @@ html,body{
     border-radius: 50%;
     margin-top: -311px;
     margin-left: 80px;
-    overflow: hidden;    
+    overflow: hidden; 
+    background: #d2d2d2;  
 }
 
 
