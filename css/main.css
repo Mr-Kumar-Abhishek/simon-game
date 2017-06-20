@@ -114,6 +114,7 @@ html,body{
 .switch-b-in p {
     font-weight: bolder;
     font-size: 45px;
+    margin: 0px;
 }
 
 .count-block {
