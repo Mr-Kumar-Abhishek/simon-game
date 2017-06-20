@@ -119,6 +119,12 @@ html,body{
 	display: inline;
 }
 
+.count-block span{
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 2px;
+}
+
 .counting-block {
 	border: black solid;
     border-width: 4px;
@@ -126,6 +132,7 @@ html,body{
     width: 55px;
     height: 40px;
 }
+
 
 
 
