@@ -132,6 +132,9 @@ html,body{
     width: 55px;
     height: 40px;
     background: #32050C;
+    color: red;
+    font-size: 22px;
+    text-align: center;
 }
 
 
