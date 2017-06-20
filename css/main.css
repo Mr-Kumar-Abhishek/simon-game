@@ -76,19 +76,19 @@ html,body{
 	background: #094a8f;
 }
 
-.green:hover {
+.green:active {
 	background: #25d473;
 }
 
-.red:hover {
+.red:active {
 	background: #da2e38;
 }
 
-.yellow:hover {
+.yellow:active {
 	background: #dec454;
 }
 
-.blue:hover {
+.blue:active {
 	background: #3677bd;
 }
 
