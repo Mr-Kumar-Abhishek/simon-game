@@ -119,12 +119,40 @@ html,body{
 
 .count-block {
 	display: inline;
+	float: left;
+}
+
+.btn-block {
+	display: inline;
+    float: left;
+    width: 50px;
+    margin-top: 20px;
+}
+
+
+.btn-block span {
+	font-weight: bold;
+    font-size: 11px;
+    margin-left: 10px;
+    margin-bottom: 1px;
 }
 
 .count-block span{
     font-weight: bold;
     font-size: 11px;
     margin-left: 10px
+}
+
+.round-btn {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    background-color: red;
+    border-radius: 100%;
+    border: 4px solid #444;
+    box-shadow: 0px 2px 3px #222;
+    margin: auto;
+    top: -5px;
 }
 
 .counting-block {
@@ -138,6 +166,8 @@ html,body{
     font-size: 22px;
     text-align: center;
 }
+
+
 
 
 
