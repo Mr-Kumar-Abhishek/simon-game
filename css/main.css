@@ -107,8 +107,8 @@ html,body{
 }
 
 .switch-b-in {
-	margin-top: 30px;
-	margin-left: 30px
+	margin-top: 35px;
+    margin-left: 35px;
 }
 
 .switch-b-in p {
@@ -120,27 +120,28 @@ html,body{
 .count-block {
 	display: inline;
 	float: left;
+	margin-top: 20px;
 }
 
 .btn-block {
 	display: inline;
     float: left;
     width: 50px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 
 .btn-block span {
 	font-weight: bold;
     font-size: 11px;
-    margin-left: 10px;
+    margin-left: 8px;
     margin-bottom: 1px;
 }
 
 .count-block span{
     font-weight: bold;
     font-size: 11px;
-    margin-left: 10px
+    margin-left: 15px
 }
 
 .round-btn {
@@ -183,7 +184,7 @@ html,body{
     background-color: #32050C;
     border-radius: 100%;
     position: absolute;
-    left: 124px;
+    left: 125px;
     right: 0;
     margin: auto;
     border: 2px solid #222;
