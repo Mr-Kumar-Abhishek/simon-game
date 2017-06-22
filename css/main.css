@@ -168,8 +168,29 @@ html,body{
 }
 
 
+.yellow {
+	
+	background: yellow;
+	top: 10px;
+}
+
+.strict {
+	margin-top: 5px;
+}
 
 
+.led {
+    width: 10px;
+    height: 10px;
+    background-color: #32050C;
+    border-radius: 100%;
+    position: absolute;
+    left: 124px;
+    right: 0;
+    margin: auto;
+    border: 2px solid #222;
+    top: 90px;
+}
 
 
 
