@@ -162,7 +162,7 @@ html,body{
     width: 55px;
     height: 40px;
     background: #32050C;
-    color: red;
+    color: rgba(255, 0, 0, 0.24);
     font-size: 38px;
     text-align: center;
 }
@@ -223,3 +223,10 @@ html,body{
 .switch-on {
 	left: 20px;
 }
+
+
+.counting-on {
+	
+	color: red;
+}
+
