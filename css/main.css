@@ -191,5 +191,21 @@ html,body{
     top: 90px;
 }
 
+.label {
+	display: inline-block;
+    margin-left: 11px;
+    margin-top: 11px;
+}
 
+.switch-slot {
 
+    height: 20px;
+    width: 40px;
+    background-color: #222;
+    position: relative;
+    top: 5px;
+    border-radius: 2px;
+    cursor: pointer;
+ 
+ }
+  
