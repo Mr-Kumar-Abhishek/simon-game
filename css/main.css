@@ -209,3 +209,13 @@ html,body{
  
  }
   
+.switch {
+	
+	height: 16px;
+    width: 16px;
+    border-radius: 4px;
+    background-color: #3193DE;
+    position: relative;
+    border: 2px solid #333;
+
+}
