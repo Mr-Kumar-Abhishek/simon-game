@@ -1,4 +1,5 @@
 var gameSwitch = false;
+var strictSwitch = false
 
 $("#power-switch").click(function (){
 	if (gameSwitch == false ){
@@ -12,3 +13,22 @@ $("#power-switch").click(function (){
 		gameSwitch =false;
 	}
 });
+
+$("#strict").click(function () {
+	
+	if ( gameSwitch == false ) {
+		
+		// do nothing 
+	} else {
+		
+		if (strictSwitch == false){
+			
+			$(".led").addClass("led-on");
+			strictSwitch = true;
+		}else {
+			$(".led").removeClass("led-on");
+			strictSwitch = false;
+		}
+	} 
+});
+

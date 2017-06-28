@@ -201,6 +201,10 @@ html,body{
     top: 90px;
 }
 
+.led-on {
+	background-color: red;
+}
+
 .label {
 	display: inline-block;
     margin-left: 11px;
