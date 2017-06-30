@@ -1,5 +1,5 @@
 var gameSwitch = false;
-var strictSwitch = false
+var strictSwitch = false;
 
 $("#power-switch").click(function (){
 	if (gameSwitch == false ){
